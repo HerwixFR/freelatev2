@@ -197,8 +197,7 @@
       "Madeleine",
       "Olympiades",
       "Pyramides",
-      "Saint-Lazare"
-      "Saint-Denis Pleyel",
+      "Saint-Lazare",
       "Mairie de Saint-Ouen",
       "Saint-Ouen",
       "Porte de Clichy",
@@ -209,7 +208,8 @@
       "Villejuif - Gustave Roussy",
       "L'Haÿ-les-Roses",
       "Chevilly-Larue",
-      "Thiais - Orly"
+      "Thiais - Orly",
+      "Saint-Denis Pleyel"
     ],
     "RER A": [
       "Acheres Grand Cormier",
@@ -683,7 +683,7 @@
       "Buno - Gironville",
       "Boigneville",
       "Malesherbes"
-      ],
+    ],
 
       "RER E": [
       "Nanterre-La Folie",
@@ -711,7 +711,8 @@
       "Ozoir-la-Ferrière",
       "Gretz-Armainvilliers",
       "Tournan"
-      ],
+      ]
+
   },
   "incident": [
     "Bagage oublié",

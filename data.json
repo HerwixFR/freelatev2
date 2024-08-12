@@ -24,9 +24,23 @@
     "RER C",
     "RER D",
     "RER E",
-    "H"
+    "H",
+    "J",
+    "K"
   ],
   "stations": {
+    "K": [
+      "Paris-Nord",
+      "Aulnay-sous-Bois",
+      "Mitry - Claye",
+      "Compans",
+      "Thieux - Nantouillet",
+      "Dammartin - Juilly - Saint-Mard",
+      "Le Plessis-Belleville",
+      "Nanteuil-le-Haudouin",
+      "Ormoy-Villers",
+      "Crépy-en-Valois"
+    ],
     "H": [
       "Paris-Nord",
       "Saint-Denis - L'Île-Saint-Denis",

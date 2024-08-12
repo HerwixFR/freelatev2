@@ -32,6 +32,9 @@ Le faux justificatif de retard généré par FreeLate n'a aucune valeur juridiqu
 ## Auteur
 Yaniv Douieb <yanivdouieb[at]icloud.com>
 
+## Aide mise à jour
+Herwix <herwixfr[at]gmail.com>
+
 ## Licence
 Copyright 2023 Yaniv Douieb
 

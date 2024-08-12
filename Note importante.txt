@@ -1,0 +1,2 @@
+Les données dans data.json peuvent être amené a être modifié selon les modifications des réseaux réels.
+Les lignes 15, 16 et 17 devront être mises à jour pour cause de noms de stations et de tracé pas encore certains.

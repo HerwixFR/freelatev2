@@ -773,6 +773,7 @@
     "Panne de signalisation",
     "Panne électrique",
     "Train en panne",
-    "Travaux"
+    "Travaux",
+    "Signal d'alarme enclenché"
   ]
 }

@@ -43,7 +43,7 @@
       "Jouy-en-Josas",
       "Petit Jouy - Les Loges",
       "Versailles-Chantiers"
-    ],
+     ],
     "Ligne U": [
       "La Verrière",
       "Trappes",
@@ -56,7 +56,7 @@
       "Suresnes-Mont-Valérien",
       "Puteaux",
       "La Défense"
-    ],
+     ],
     "Ligne R": [
       "Paris-Gare-de-Lyon",
       "Melun",
@@ -83,7 +83,7 @@
       "Champagne-sur-Seine",
       "Vernou-sur-Seine",
       "La Grande-Paroisse"
-    ],
+     ],
     "Ligne P": [
       "Paris-Est",
       "Chelles - Gournay",
@@ -107,7 +107,7 @@
       "Crouy-sur-Ourcq",
       "Mareuil-sur-Ourcq",
       "La Ferté-Milon"
-    ],
+     ],
     "Ligne N":[
       "Paris-Montparnasse",
       "Vanves - Malakoff",
@@ -182,7 +182,7 @@
       "Clichy - Levallois",
       "Pont-Cardinet",
       "Paris-Saint-Lazare"
-    ],
+     ],
     "Ligne J": [
       "Mantes-la-Jolie",
       "Mantes-Station",
@@ -249,7 +249,7 @@
       "Nanteuil-le-Haudouin",
       "Ormoy-Villers",
       "Crépy-en-Valois"
-    ],
+     ],
     "Ligne H": [
       "Paris-Nord",
       "Saint-Denis - L'Île-Saint-Denis",
@@ -306,7 +306,7 @@
       "Saint-Leu-d'Esserent",
       "Creil"
       ],
-    "10": [
+     "10": [
       "Avenue Emile-Zola",
       "Boulogne Pont de Saint-Cloud",
       "Boulogne-Jean-Jaurès",
@@ -330,7 +330,7 @@
       "Sèvres-Babylone",
       "Ségur",
       "Vaneau"
-    ],
+     ],
     "13": [
       "Asnieres-Gennevilliers Les Courtilles",
       "Basilique de Saint-Denis",
@@ -364,7 +364,7 @@
       "Saint-Francois-Xavier",
       "Saint-Lazare",
       "Varenne"
-    ],
+     ],
     "RER C": [
       "Pontoise",
       "Saint-Ouen-l'Aumône",
@@ -439,7 +439,7 @@
       "Étréchy",
       "Étampes",
       "Saint-Martin-d'Étampes"
-    ],
+     ],
     "12": [
       "Abbesses",
       "Assemblée Nationale",
@@ -470,7 +470,7 @@
       "Trinité-d'Estienne d'Orves",
       "Vaugirard (Adolphe Chérioux)",
       "Volontaires"
-    ],
+     ],
     "14": [
       "Bercy",
       "Bibliotheque-Francois Mitterrand",
@@ -493,7 +493,7 @@
       "Chevilly-Larue",
       "Thiais - Orly",
       "Saint-Denis Pleyel"
-    ],
+     ],
     "RER A": [
       "Acheres Grand Cormier",
       "Achères-Ville",
@@ -541,7 +541,7 @@
       "Val d'europe",
       "Val de Fontenay",
       "Vincennes"
-    ],
+     ],
     "RER B": [
       "Aeroport Charles de Gaulle 1",
       "Aeroport Charles de Gaulle 2 TGV",
@@ -590,7 +590,7 @@
       "Vert-Galant",
       "Villeparisis",
       "Villepinte"
-    ],
+     ],
     "17": [
       "Le Mesnil-Amelot",
       "Aéroport Charles-de-Gaulle 2 TGV",
@@ -601,7 +601,7 @@
       "La Courneuve - Six Routes",
       "Saint-Denis Pleyel",
       "Aéroport Charles de Gaulle 2e gare"
-    ],
+     ],
     "16": [
       "Noisy - Champs",
       "Chelles – Gournay",
@@ -613,7 +613,7 @@
       "Le Bourget",
       "La Courneuve - Six Routes",
       "Saint-Denis Pleyel"
-    ],
+     ],
     "15": [
       "Noisy - Champs",
       "Villiers-Champigny-Bry",
@@ -631,7 +631,7 @@
       "Clamart",
       "Issy",
       "Pont de Sèvres"
-    ],
+     ],
      "2": [
       "Alexandre-Dumas",
       "Anvers",
@@ -658,7 +658,7 @@
       "Ternes",
       "Victor Hugo",
       "Villiers"
-    ],
+     ],
     "3": [
       "Anatole-France",
       "Arts-et-Métiers",
@@ -685,7 +685,7 @@
       "Temple",
       "Villiers",
       "Wagram"
-    ],
+     ],
     "4": [
       "Alésia",
       "Barbès-Rochechouart",
@@ -714,7 +714,7 @@
       "Simplon",
       "Strasbourg-Saint-Denis",
       "Vavin"
-    ],
+     ],
     "7": [
       "Aubervilliers Pantin (4 Chemins)",
       "Cadet",
@@ -754,7 +754,7 @@
       "Villejuif-Louis Aragon",
       "Villejuif-Léo Lagrange",
       "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
-    ],
+     ],
     "5": [
       "Bastille",
       "Bobigny-Pablo-Picasso",
@@ -778,7 +778,7 @@
       "République",
       "Saint-Marcel",
       "Stalingrad"
-    ],
+     ],
     "7 bis": [
       "Bolivar",
       "Botzaris",
@@ -788,7 +788,7 @@
       "Louis Blanc",
       "Place des Fêtes",
       "Pré-Saint-Gervais"
-    ],
+     ],
     "8": [
       "Balard",
       "Bastille",
@@ -828,7 +828,7 @@
       "République",
       "Saint-Sébastien-Froissart",
       "Strasbourg-Saint-Denis"
-    ],
+     ],
     "9": [
       "Alma-Marceau",
       "Billancourt",
@@ -867,7 +867,7 @@
       "Strasbourg-Saint-Denis",
       "Trocadéro",
       "Voltaire (Léon Blum)"
-    ],
+     ],
     "6": [
       "Bel-Air",
       "Bercy",
@@ -897,13 +897,13 @@
       "Saint-Jacques",
       "Sèvres-Lecourbe",
       "Trocadéro"
-    ],
+     ],
     "3 bis": [
       "Gambetta",
       "Pelleport",
       "Porte des Lilas",
       "Saint-Fargeau"
-    ],
+     ],
     "1": [
       "Argentine",
       "Bastille",
@@ -930,7 +930,7 @@
       "Saint-Mandé",
       "Saint-Paul (Le Marais)",
       "Tuileries"
-    ],
+     ],
     "11": [
       "Châtelet",
       "Hôtel de Ville",
@@ -951,7 +951,7 @@
       "La Dhuys",
       "Coteaux Beauclair",
       "Rosny-Bois-Perrier"
-    ],
+     ],
     "RER D": [
       "Creil",
       "Chantilly - Gouvieux",
@@ -1012,7 +1012,7 @@
       "Buno - Gironville",
       "Boigneville",
       "Malesherbes"
-    ],
+     ],
 
       "RER E": [
       "Nanterre-La Folie",

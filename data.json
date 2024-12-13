@@ -23,290 +23,10 @@
     "RER B",
     "RER C",
     "RER D",
-    "RER E",
-    "Ligne H",
-    "Ligne J",
-    "Ligne K",
-    "Ligne L",
-    "Ligne N",
-    "Ligne P",
-    "Ligne R",
-    "Ligne U",
-    "Ligne V"
+    "RER E"
   ],
   "stations": {
-     "Ligne V": [
-      "Massy - Palaiseau",
-      "Igny",
-      "Bièvres",
-      "Vauboyen",
-      "Jouy-en-Josas",
-      "Petit Jouy - Les Loges",
-      "Versailles-Chantiers"
-     ],
-     "Ligne U": [
-      "La Verrière",
-      "Trappes",
-      "Saint-Quentin-en-Yvelines",
-      "Saint-Cyr",
-      "Versailles-Chantiers",
-      "Chaville-Rive-Droite",
-      "Sèvres - Ville-d'Avray",
-      "Saint-Cloud",
-      "Suresnes-Mont-Valérien",
-      "Puteaux",
-      "La Défense"
-     ],
-     "Ligne R": [
-      "Paris-Gare-de-Lyon",
-      "Melun",
-      "Bois-le-Roi",
-      "Fontainebleau-Forêt",
-      "Fontainebleau - Avon",
-      "Thomery",
-      "Moret-Veneux-les-Sablons",
-      "Saint-Mammès",
-      "Montereau",
-      "Montigny-sur-Loing",
-      "Bourron-Marlotte - Grez",
-      "Nemours - Saint-Pierre",
-      "Bagneaux-sur-Loing",
-      "Souppes - Château-Landon",
-      "Dordives",
-      "Ferrières - Fontenay",
-      "Montargis",
-      "Livry-sur-Seine",
-      "Chartrettes",
-      "Fontaine-le-Port",
-      "Héricy",
-      "Vulaines-sur-Seine - Samoreau",
-      "Champagne-sur-Seine",
-      "Vernou-sur-Seine",
-      "La Grande-Paroisse"
-     ],
-     "Ligne P": [
-      "Paris-Est",
-      "Chelles - Gournay",
-      "Vaires - Torcy",
-      "Lagny - Thorigny",
-      "Esbly",
-      "Montry - Condé",
-      "Couilly - Saint-Germain - Quincy",
-      "Villiers - Montbarbin",
-      "Crécy-la-Chapelle",
-      "Meaux",
-      "Trilport",
-      "Changis - Saint-Jean",
-      "La Ferté-sous-Jouarre",
-      "Nanteuil - Saâcy",
-      "Nogent-l'Artaud - Charly",
-      "Chézy-sur-Marne",
-      "Château-Thierry",
-      "Isles - Armentières - Congis",
-      "Lizy-sur-Ourcq",
-      "Crouy-sur-Ourcq",
-      "Mareuil-sur-Ourcq",
-      "La Ferté-Milon"
-     ],
-     "Ligne N":[
-      "Paris-Montparnasse",
-      "Vanves - Malakoff",
-      "Clamart",
-      "Meudon",
-      "Bellevue",
-      "Sèvres-Rive-Gauche",
-      "Chaville-Rive-Gauche",
-      "Viroflay-Rive-Gauche",
-      "Versailles-Chantiers",
-      "Saint-Cyr",
-      "Fontenay-le-Fleury",
-      "Villepreux - Les Clayes",
-      "Plaisir - Les Clayes",
-      "Plaisir - Grignon",
-      "Villiers - Neauphle - Pontchartrain",
-      "Montfort-l'Amaury - Méré",
-      "Garancières - La Queue",
-      "Orgerus - Béhoust",
-      "Tacoignières - Richebourg",
-      "Houdan",
-      "Marchezais - Broué",
-      "Dreux",
-      "Beynes",
-      "Mareil-sur-Mauldre",
-      "Maule",
-      "Nézel - Aulnay",
-      "Épône - Mézières",
-      "Mantes-la-Jolie",
-      "Saint-Quentin-en-Yvelines",
-      "Trappes",
-      "La Verrière",
-      "Coignières",
-      "Les Essarts-le-Roi",
-      "Le Perray",
-      "Rambouillet"
-      ],
-     "Ligne L": [
-      "Cergy-le-Haut",
-      "Cergy-Saint-Christophe",
-      "Cergy-Préfecture",
-      "Neuville-Université",
-      "Conflans-Fin-d'Oise",
-      "Achères-Ville",
-      "Maisons-Laffitte",
-      "Sartrouville",
-      "Houilles - Carrières-sur-Seine",
-      "Nanterre-Université",
-      "La Garenne-Colombes",
-      "Les Vallées",
-      "Versailles-Rive-Droite",
-      "Montreuil",
-      "Viroflay-Rive-Droite",
-      "Chaville-Rive-Droite",
-      "Sèvres - Ville-d'Avray",
-      "Saint-Nom-la-Bretèche - Forêt de Marly",
-      "L'Étang-la-Ville",
-      "Marly-le-Roi",
-      "Louveciennes",
-      "Bougival",
-      "La Celle-Saint-Cloud",
-      "Vaucresson",
-      "Garches - Marnes-la-Coquette",
-      "Saint-Cloud",
-      "Le Val d'Or",
-      "Suresnes-Mont-Valérien",
-      "Puteaux",
-      "La Défense",
-      "Courbevoie",
-      "Bécon-les-Bruyères",
-      "Asnières-sur-Seine",
-      "Clichy - Levallois",
-      "Pont-Cardinet",
-      "Paris-Saint-Lazare"
-     ],
-     "Ligne J": [
-      "Mantes-la-Jolie",
-      "Mantes-Station",
-      "Limay",
-      "Issou - Porcheville",
-      "Gargenville",
-      "Juziers",
-      "Meulan - Hardricourt",
-      "Thun-le-Paradis",
-      "Vaux-sur-Seine",
-      "Triel-sur-Seine",
-      "Chanteloup-les-Vignes",
-      "Andrésy",
-      "Maurecourt",
-      "Conflans-Fin-d'Oise",
-      "Gisors",
-      "Trie-Château",
-      "Chaumont-en-Vexin",
-      "Liancourt-Saint-Pierre",
-      "Lavilletertre",
-      "Chars",
-      "Santeuil - Le Perchay",
-      "Us",
-      "Montgeroult - Courcelles",
-      "Boissy-l'Aillerie",
-      "Osny",
-      "Pontoise",
-      "Saint-Ouen-l'Aumône-Quartier de l'Église",
-      "Éragny - Neuville",
-      "Conflans-Sainte-Honorine",
-      "Herblay",
-      "La Frette - Montigny",
-      "Cormeilles-en-Parisis",
-      "Val d'Argenteuil",
-      "Ermont - Eaubonne",
-      "Sannois",
-      "Argenteuil",
-      "Le Stade",
-      "Colombes",
-      "Bois-Colombes",
-      "Asnières-sur-Seine",
-      "Paris-Saint-Lazare",
-      "Vernon - Giverny",
-      "Bonnières",
-      "Rosny-sur-Seine",
-      "Mantes-Station",
-      "Épône - Mézières",
-      "Aubergenville-Élisabethville",
-      "Les Mureaux",
-      "Les Clairières de Verneuil",
-      "Vernouillet - Verneuil",
-      "Villennes-sur-Seine",
-      "Poissy",
-      "Houilles - Carrières-sur-Seine"
-      ],
-     "Ligne K": [
-      "Paris-Nord",
-      "Aulnay-sous-Bois",
-      "Mitry - Claye",
-      "Compans",
-      "Thieux - Nantouillet",
-      "Dammartin - Juilly - Saint-Mard",
-      "Le Plessis-Belleville",
-      "Nanteuil-le-Haudouin",
-      "Ormoy-Villers",
-      "Crépy-en-Valois"
-     ],
-     "Ligne H": [
-      "Paris-Nord",
-      "Saint-Denis - L'Île-Saint-Denis",
-      "Épinay - Villetaneuse",
-      "Deuil - Montmagny",
-      "Groslay",
-      "Sarcelles - Saint-Brice",
-      "Écouen - Ézanville",
-      "Domont",
-      "Bouffémont - Moisselles",
-      "Montsoult - Maffliers",
-      "Villaines",
-      "Belloy - Saint-Martin",
-      "Viarmes",
-      "Seugy",
-      "Luzarches",
-      "Presles-Courcelles",
-      "Nointel - Mours",
-      "La Barre - Ormesson",
-      "Enghien-les-Bains",
-      "Champ de courses d'Enghien",
-      "Ermont - Eaubonne",
-      "Ermont-Halte",
-      "Gros Noyer - Saint-Prix",
-      "Saint-Leu-la-Forêt",
-      "Vaucelles",
-      "Taverny",
-      "Bessancourt",
-      "Frépillon",
-      "Méry-sur-Oise",
-      "Mériel",
-      "Valmondois",
-      "L'Isle-Adam - Parmain",
-      "Champagne-sur-Oise",
-      "Persan - Beaumont",
-      "Cernay",
-      "Franconville - Le Plessis-Bouchard",
-      "Montigny - Beauchamp",
-      "Pierrelaye",
-      "Saint-Ouen-l'Aumône-Liesse",
-      "Saint-Ouen-l'Aumône",
-      "Pontoise",
-      "Épluches",
-      "Pont-Petit",
-      "Chaponval",
-      "Auvers-sur-Oise",
-      "Valmondois",
-      "L'Isle-Adam - Parmain",
-      "Champagne-sur-Oise",
-      "Persan - Beaumont",
-      "Bruyères-sur-Oise",
-      "Boran-sur-Oise",
-      "Précy-sur-Oise",
-      "Saint-Leu-d'Esserent",
-      "Creil"
-      ],
-     "10": [
+    "10": [
       "Avenue Emile-Zola",
       "Boulogne Pont de Saint-Cloud",
       "Boulogne-Jean-Jaurès",
@@ -330,8 +50,8 @@
       "Sèvres-Babylone",
       "Ségur",
       "Vaneau"
-     ],
-     "13": [
+    ],
+    "13": [
       "Asnieres-Gennevilliers Les Courtilles",
       "Basilique de Saint-Denis",
       "Brochant",
@@ -364,8 +84,8 @@
       "Saint-Francois-Xavier",
       "Saint-Lazare",
       "Varenne"
-     ],
-     "RER C": [
+    ],
+    "RER C": [
       "Pontoise",
       "Saint-Ouen-l'Aumône",
       "Saint-Ouen-l'Aumône-Liesse",
@@ -439,8 +159,8 @@
       "Étréchy",
       "Étampes",
       "Saint-Martin-d'Étampes"
-     ],
-     "12": [
+    ],
+    "12": [
       "Abbesses",
       "Assemblée Nationale",
       "Concorde",
@@ -470,8 +190,8 @@
       "Trinité-d'Estienne d'Orves",
       "Vaugirard (Adolphe Chérioux)",
       "Volontaires"
-     ],
-     "14": [
+    ],
+    "14": [
       "Bercy",
       "Bibliotheque-Francois Mitterrand",
       "Châtelet",
@@ -493,8 +213,8 @@
       "Chevilly-Larue",
       "Thiais - Orly",
       "Saint-Denis Pleyel"
-     ],
-     "RER A": [
+    ],
+    "RER A": [
       "Acheres Grand Cormier",
       "Achères-Ville",
       "Auber",
@@ -541,8 +261,8 @@
       "Val d'europe",
       "Val de Fontenay",
       "Vincennes"
-     ],
-     "RER B": [
+    ],
+    "RER B": [
       "Aeroport Charles de Gaulle 1",
       "Aeroport Charles de Gaulle 2 TGV",
       "Antony",
@@ -590,8 +310,8 @@
       "Vert-Galant",
       "Villeparisis",
       "Villepinte"
-     ],
-     "17": [
+    ],
+    "17": [
       "Le Mesnil-Amelot",
       "Aéroport Charles-de-Gaulle 2 TGV",
       "Parc des Expositions",
@@ -601,8 +321,8 @@
       "La Courneuve - Six Routes",
       "Saint-Denis Pleyel",
       "Aéroport Charles de Gaulle 2e gare"
-     ],
-    "16": [
+    ],
+    "16":[
       "Noisy - Champs",
       "Chelles – Gournay",
       "Clichy - Montfermeil",
@@ -613,8 +333,8 @@
       "Le Bourget",
       "La Courneuve - Six Routes",
       "Saint-Denis Pleyel"
-     ],
-     "15": [
+    ],
+    "15": [
       "Noisy - Champs",
       "Villiers-Champigny-Bry",
       "Champigny Centre",
@@ -631,7 +351,7 @@
       "Clamart",
       "Issy",
       "Pont de Sèvres"
-     ],
+    ],
      "2": [
       "Alexandre-Dumas",
       "Anvers",
@@ -658,8 +378,8 @@
       "Ternes",
       "Victor Hugo",
       "Villiers"
-     ],
-     "3": [
+    ],
+    "3": [
       "Anatole-France",
       "Arts-et-Métiers",
       "Bourse",
@@ -685,8 +405,8 @@
       "Temple",
       "Villiers",
       "Wagram"
-     ],
-     "4": [
+    ],
+    "4": [
       "Alésia",
       "Barbès-Rochechouart",
       "Château Rouge",
@@ -714,8 +434,8 @@
       "Simplon",
       "Strasbourg-Saint-Denis",
       "Vavin"
-     ],
-     "7": [
+    ],
+    "7": [
       "Aubervilliers Pantin (4 Chemins)",
       "Cadet",
       "Censier-Daubenton",
@@ -754,8 +474,8 @@
       "Villejuif-Louis Aragon",
       "Villejuif-Léo Lagrange",
       "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
-     ],
-     "5": [
+    ],
+    "5": [
       "Bastille",
       "Bobigny-Pablo-Picasso",
       "Bobigny-Pantin (Raymond Queneau)",
@@ -778,8 +498,8 @@
       "République",
       "Saint-Marcel",
       "Stalingrad"
-     ],
-     "7 bis": [
+    ],
+    "7 bis": [
       "Bolivar",
       "Botzaris",
       "Buttes-Chaumont",
@@ -788,8 +508,8 @@
       "Louis Blanc",
       "Place des Fêtes",
       "Pré-Saint-Gervais"
-     ],
-     "8": [
+    ],
+    "8": [
       "Balard",
       "Bastille",
       "Bonne Nouvelle",
@@ -828,8 +548,8 @@
       "République",
       "Saint-Sébastien-Froissart",
       "Strasbourg-Saint-Denis"
-     ],
-     "9": [
+    ],
+    "9": [
       "Alma-Marceau",
       "Billancourt",
       "Bonne Nouvelle",
@@ -867,8 +587,8 @@
       "Strasbourg-Saint-Denis",
       "Trocadéro",
       "Voltaire (Léon Blum)"
-     ],
-     "6": [
+    ],
+    "6": [
       "Bel-Air",
       "Bercy",
       "Bir-Hakeim (Grenelle)",
@@ -897,14 +617,9 @@
       "Saint-Jacques",
       "Sèvres-Lecourbe",
       "Trocadéro"
-     ],
-     "3 bis": [
-      "Gambetta",
-      "Pelleport",
-      "Porte des Lilas",
-      "Saint-Fargeau"
-     ],
-     "1": [
+    ],
+    "3 bis": ["Gambetta", "Pelleport", "Porte des Lilas", "Saint-Fargeau"],
+    "1": [
       "Argentine",
       "Bastille",
       "Bérault",
@@ -930,8 +645,8 @@
       "Saint-Mandé",
       "Saint-Paul (Le Marais)",
       "Tuileries"
-     ],
-     "11": [
+    ],
+    "11": [
       "Châtelet",
       "Hôtel de Ville",
       "Rambuteau",
@@ -951,8 +666,8 @@
       "La Dhuys",
       "Coteaux Beauclair",
       "Rosny-Bois-Perrier"
-     ],
-     "RER D": [
+    ],
+    "RER D": [
       "Creil",
       "Chantilly - Gouvieux",
       "Orry-la-Ville - Coye",
@@ -1012,7 +727,7 @@
       "Buno - Gironville",
       "Boigneville",
       "Malesherbes"
-     ],
+    ],
 
       "RER E": [
       "Nanterre-La Folie",
@@ -1043,22 +758,22 @@
       ]
 
   },
-     "incident": [
-     "Bagage oublié",
-     "Difficultés d'exploitation",
-     "Gêne à la fermeture des portes",
-     "Incident affectant la voie",
-     "Incident technique",
-     "Incident voyageur",
-     "Malaise voyageur",
-     "Mesures de régulation",
-     "Mesure de sécurité",
-     "Mouvement social",
-     "Obstacle sur la voie",
-     "Panne de signalisation",
-     "Panne électrique",
-     "Train en panne",
-     "Travaux",
-     "Signal d'alarme enclenché"
-     ]
+  "incident": [
+    "Bagage oublié",
+    "Difficultés d'exploitation",
+    "Gêne à la fermeture des portes",
+    "Incident affectant la voie",
+    "Incident technique",
+    "Incident voyageur",
+    "Malaise voyageur",
+    "Mesures de régulation",
+    "Mesure de sécurité",
+    "Mouvement social",
+    "Obstacle sur la voie",
+    "Panne de signalisation",
+    "Panne électrique",
+    "Train en panne",
+    "Travaux",
+    "Signal d'alarme enclenché"
+  ]
 }

@@ -602,7 +602,7 @@
       "Saint-Denis Pleyel",
       "Aéroport Charles de Gaulle 2e gare"
     ],
-    "16":[
+    "16": [
       "Noisy - Champs",
       "Chelles – Gournay",
       "Clichy - Montfermeil",
@@ -898,7 +898,12 @@
       "Sèvres-Lecourbe",
       "Trocadéro"
     ],
-    "3 bis": ["Gambetta", "Pelleport", "Porte des Lilas", "Saint-Fargeau"],
+    "3 bis": [
+      "Gambetta",
+      "Pelleport",
+      "Porte des Lilas",
+      "Saint-Fargeau"
+    ],
     "1": [
       "Argentine",
       "Bastille",
@@ -1038,22 +1043,22 @@
       ]
 
   },
-  "incident": [
-    "Bagage oublié",
-    "Difficultés d'exploitation",
-    "Gêne à la fermeture des portes",
-    "Incident affectant la voie",
-    "Incident technique",
-    "Incident voyageur",
-    "Malaise voyageur",
-    "Mesures de régulation",
-    "Mesure de sécurité",
-    "Mouvement social",
-    "Obstacle sur la voie",
-    "Panne de signalisation",
-    "Panne électrique",
-    "Train en panne",
-    "Travaux",
-    "Signal d'alarme enclenché"
-  ]
+     "incident": [
+     "Bagage oublié",
+     "Difficultés d'exploitation",
+     "Gêne à la fermeture des portes",
+     "Incident affectant la voie",
+     "Incident technique",
+     "Incident voyageur",
+     "Malaise voyageur",
+     "Mesures de régulation",
+     "Mesure de sécurité",
+     "Mouvement social",
+     "Obstacle sur la voie",
+     "Panne de signalisation",
+     "Panne électrique",
+     "Train en panne",
+     "Travaux",
+     "Signal d'alarme enclenché"
+     ]
 }

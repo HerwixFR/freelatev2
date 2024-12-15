@@ -32,9 +32,34 @@
     "Ligne P",
     "Ligne R",
     "Ligne U",
-    "Ligne V"
+    "Ligne V",
+    "T6"
   ],
   "stations": {
+    "T6":[
+      "Châtillon - Montrouge",
+      "Vauban",
+      "Centre de Châtillon",
+      "Parc André Malraux",
+      "Division Leclerc",
+      "Soleil Levant",
+      "Hôpital Béclère",
+      "Mail de la Plaine",
+      "Pavé Blanc",
+      "Georges Pompidou",
+      "Georges Millandy",
+      "Meudon-la-Forêt",
+      "Vélizy 2",
+      "Dewoitine",
+      "Inovel Parc Nord",
+      "Louvois",
+      "Mairie de Vélizy",
+      "L'Onde",
+      "Robert Wagner",
+      "Viroflay-Rive-Gauche",
+      "Viroflay-Rive-Droite"
+    ],
+      
      "Ligne V": [
       "Massy - Palaiseau",
       "Igny",

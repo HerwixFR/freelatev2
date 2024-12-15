@@ -55,7 +55,7 @@ export default function Index() {
               <Form.ControlLabel>Numero de la ligne</Form.ControlLabel>
               <AutoComplete
                 data={require("../data.json").lines}
-                placeholder="3bis, 9, RER A, ..."
+                placeholder="3bis, 9, RER A, T1 ..."
                 size="lg"
                 onChange={(e) => {
                   if (e == "") {
